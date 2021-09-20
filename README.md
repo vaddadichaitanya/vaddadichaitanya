@@ -6,8 +6,8 @@ When I'm not at work, you can often find me coding, learning new stuff, and honi
 
 I also love working with different technologies & platforms and my current favorite ones are
 
-- :sparkles: SQL / PostgreSQL / MySQL
-- :sparkles: Python
-- :sparkles: Tableau
+ :sparkles: SQL / PostgreSQL / MySQL
+ :sparkles: Python
+ :sparkles: Tableau
 
 
